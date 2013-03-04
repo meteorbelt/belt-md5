@@ -1,10 +1,10 @@
-# Meteor Belt Flash
+# Meteor Belt MD5
 
-Provides client side flash notifications
+Provides cyrpto-js's MD5 hash. For use with Meteor Belt applications
 
 ## Installation
 
-Meteor Router can be installed with [Meteorite](https://github.com/oortcloud/meteorite/). From inside a Meteorite-managed app:
+Meteor Belt MD5 can be installed with [Meteorite](https://github.com/oortcloud/meteorite/). From inside a Meteorite-managed app:
 
 ``` sh
 $ mrt add belt-flash
