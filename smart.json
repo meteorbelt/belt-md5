@@ -3,7 +3,7 @@
   "description": "MD5 for Meteor Belt",
   "homepage": "https://github.com/meteorbelt/belt-md5",
   "author": "Kyle Finley <kyle@meteorbelt.com>",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "git": "https://github.com/meteorbelt/belt-md5.git",
   "packages": {}
 }
