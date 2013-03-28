@@ -3,6 +3,7 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
+  api.use('belt');
   api.add_files([
     'crypto-js/core.js',
     'crypto-js/md5.js',

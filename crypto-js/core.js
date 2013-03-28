@@ -1,7 +1,7 @@
 /**
  * CryptoJS core components.
  */
-var CryptoJS = CryptoJS || (function (Math, undefined) {
+this.CryptoJS = this.CryptoJS || (function (Math, undefined) {
     /**
      * CryptoJS namespace.
      */
