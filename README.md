@@ -12,8 +12,13 @@ $ mrt add belt-flash
 
 ## API
 
+#### NOTE
+
+In version `v0.2.x` the api has changed.
+`Belt.MD5 is now `MD5`
+
 ```
-Belt.MD5.hash('test@example.com');
+MD5.hash('test@example.com');
 ```
 
 ### Basics
