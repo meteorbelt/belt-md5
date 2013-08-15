@@ -3,7 +3,7 @@
   "description": "Provides cyrpto-js's MD5 hash. For use with Meteor Belt applications",
   "homepage": "https://github.com/meteorbelt/belt-md5",
   "author": "Kyle Finley <kyle@meteorbelt.com>",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "git": "https://github.com/meteorbelt/belt-md5.git",
   "packages": {}
 }
