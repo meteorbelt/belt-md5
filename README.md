@@ -1,4 +1,4 @@
-# Meteor Belt MD5
+# Meteor Belt MD5 [![Build Status](https://travis-ci.org/meteorbelt/belt-md5.png?branch=master)](https://travis-ci.org/meteorbelt/belt-md5)
 
 Provides cyrpto-js's MD5 hash. For use with Meteor Belt applications
 
